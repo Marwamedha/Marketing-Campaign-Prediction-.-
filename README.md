@@ -9,7 +9,7 @@ This repository contains a data science project that explores marketing campaign
 ## 🔍 Project Overview
 
 Marketing campaigns generate large amounts of data. The goal of this project is to **build an ML model that predicts customer responses to a campaign**, helping businesses improve targeting and increase ROI through data-informed strategies.
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1O4E5iTddf90HJHP8xW3gf4WUHuHZAIyc?usp=sharing)
 ---
 
 ## 🧠 Objectives
